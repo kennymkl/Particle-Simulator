@@ -4,7 +4,7 @@ This is a Java application for simulating particles on a 1280x720 canvas. Featur
 ## Getting Started
 
 ### Prerequisites
-Ensure you have Java installed on your machine. This application requires Java 8 or higher. If Java is not installed, you can download it from [Oracle Website](https://www.oracle.com/ph/java/technologies/downloads/).
+Ensure you have Java installed on your machine. This application requires Java 8 or higher. If Java is not installed, you can download it from the [Oracle Website](https://www.oracle.com/ph/java/technologies/downloads/).
 
 #### Option 1: Run the Executable JAR File
 1. Download the `ParticleSimulator.jar` file from the releases section.
